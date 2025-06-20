@@ -15,7 +15,8 @@ public class Exercicio3 {
 		int DIFERENCA = (A * B - C * D);
 		
 		System.out.println(DIFERENCA);
-		
+
+                sc.close();
 
 	}
 
