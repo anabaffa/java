@@ -12,6 +12,8 @@ public class Exercicio1 {
 	 int soma = a + b;
 	 
 	 System.out.println("A soma de " + a + " mais " + b + " é= " + soma);
+
+        sc.close();
  
 	}
 
