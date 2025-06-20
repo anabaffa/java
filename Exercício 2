@@ -19,6 +19,7 @@ public class Exercicio2 {
 		
 		System.out.printf("O valor do raio do circulo é: %.4f%n " , area);
 
+                sc.close();
 	}
 
 }
